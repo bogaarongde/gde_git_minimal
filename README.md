@@ -1,0 +1,1 @@
+# gde_git_minimal
